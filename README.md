@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
