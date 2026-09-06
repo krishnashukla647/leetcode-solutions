@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
