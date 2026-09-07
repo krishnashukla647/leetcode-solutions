@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
