@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [2235-add-two-integers](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Newton's Method
 |  |
 | ------- |
