@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0443-string-compression) |
 ## Interactive
 |  |
 | ------- |
