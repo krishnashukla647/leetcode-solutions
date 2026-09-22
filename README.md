@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
