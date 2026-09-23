@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnashukla647/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishnashukla647/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
