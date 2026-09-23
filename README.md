@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnashukla647/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
