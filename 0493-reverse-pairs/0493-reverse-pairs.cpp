@@ -2,8 +2,9 @@ class Solution {
 public:
     int count;
     void merge(vector<int>& a, vector<int>& b, vector<int>& c) {
+        int m = a.size(), n = b.size();
         int i = 0, j = 0, k = 0;
-        while(i < a.size() and j < b.size()) {
+        while(i < m and j < n) {
             if(a[i] > b[j]) {
                 c[k++] = b[j++];
             }
@@ -11,10 +12,10 @@ public:
                 c[k++] = a[i++];
             }
         }
-        while(i < a.size()) {
+        while(i < m) {
             c[k++] = a[i++];
         }
-        while(j < b.size()) {
+        while(j < n) {
             c[k++] = b[j++];
         }
     }
@@ -38,12 +39,12 @@ public:
             return;
         }
         vector<int> a(n/2);
-        vector<int> b(n - (n/2));
+        vector<int> b(n-(n/2));
         int idx = 0;
-        for(int i = 0; i < n/2; i++) {
+        for(int i = 0; i < (n/2); i++) {
             a[i] = arr[idx++];
         }
-        for(int i = 0; i < n - (n/2); i++) {
+        for(int i = 0; i < (n-(n/2)); i++) {
             b[i] = arr[idx++];
         }
         mergeSort(a);
