@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2326-spiral-matrix-iv](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krishnashukla647/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
