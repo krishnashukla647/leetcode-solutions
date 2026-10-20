@@ -33,13 +33,16 @@ public:
         b = reverse(b);
         ListNode* t1 = a;
         ListNode* t2 = b;
+        bool flag = true;
         while(t2 != NULL) {
             if(t1 -> val != t2 -> val) {
-                return false;
+                flag = false;
+                break;
             }
             t1 = t1 -> next;
             t2 = t2 -> next;
         }
-        return true;
+        slow -> next = reverse(b); //To maintain the original Linked List.
+        return flag;
     }
 };
