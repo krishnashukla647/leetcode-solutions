@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/krishnashukla647/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/krishnashukla647/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
